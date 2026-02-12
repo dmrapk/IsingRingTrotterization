@@ -2,7 +2,7 @@
 
 Jupyter notebook implementing and analysing trotterized time evolution for a transverse‑field Ising ring (periodic boundary conditions) and its ground-state behaviour (e.g. frustration).
 
-This was adapted from the final project of the course "Quantum Information" - MSc. Theoretical Physics @ University of Porto.
+This was adapted from the final project of the course "Quantum Information" (2024/2025)- MSc. Theoretical Physics @ University of Porto.
 
 ## Contents
 
